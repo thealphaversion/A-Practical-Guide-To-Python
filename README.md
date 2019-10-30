@@ -4,7 +4,7 @@ This repository is where we learn together. The aim is to learn all we can about
 
 Any contribution to this journey is appreciated.
 
-## To get started with learning,
+## To get started with learning
 1. Install Python3. You can find out how to do that [here](https://www.javatpoint.com/how-to-install-python).
 2. Clone this repository.
 3. That's it. Go through the files. Run them using `python *filename*.py` or `python3 *filename*.py`
