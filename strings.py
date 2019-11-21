@@ -29,6 +29,7 @@ print("i know this seems stupid but yeah, this is how you print strings")
 example_string = "hello world"
 
 # access elements of a string using []
+# string indexes start from 0
 
 x = example_string[4]
 print(x)
@@ -91,3 +92,9 @@ a_floating_num = 44.5
 string_for_formatting = "\nThe integer number is {} and the floating number is {}."
 
 print(string_for_formatting.format(an_integer_num, a_floating_num))
+
+# find substrings in string
+
+print("find:", string_for_formatting.find("he"))                 # this will return the first index where it found the substring
+
+print("rfind:", string_for_formatting.rfind("he"))               # this will return the last index where it found the substring
