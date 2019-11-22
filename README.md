@@ -2,7 +2,13 @@
 
 This repository is where we learn together. The aim is to learn all we can about python, first generally and then moving into specifics and then in the end, develop a mini project (that I have not decided on yet, oops) using all the knowledge that we gain from this adventure. 
 
-Any contribution to this journey is appreciated.
+Any contribution to this journey is appreciated. If you find any mistakes, create an issue or a pull request regarding the same.
+
+### basic
+This directory contains all files related to the basic python syntax and basic data structures.
+
+### algorithms
+This directory contains all implementations of different problem statements and alogrithms.
 
 ## To get started with learning
 1. Install Python3. You can find out how to do that [here](https://www.javatpoint.com/how-to-install-python).
