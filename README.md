@@ -8,7 +8,7 @@ Any contribution to this journey is appreciated. If you find any mistakes, creat
 This directory contains all files related to the basic python syntax and basic data structures.
 
 ### algorithms
-This directory contains all implementations of different problem statements and alogrithms.
+This directory contains implementations of different problem statements and alogrithms.
 
 ## To get started with learning
 1. Install Python3. You can find out how to do that [here](https://www.javatpoint.com/how-to-install-python).
