@@ -5,7 +5,10 @@ This repository is where we learn together. The aim is to learn all we can about
 Any contribution to this journey is appreciated. If you find any mistakes, create an issue or a pull request regarding the same.
 
 ### basic
-This directory contains all files related to the basic python syntax and basic data structures.
+This directory contains all files related to the basic python syntax.
+
+### datastructures
+This directory contains implementations of different data structures.
 
 ### algorithms
 This directory contains implementations of different problem statements and alogrithms.
