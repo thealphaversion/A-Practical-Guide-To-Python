@@ -88,3 +88,5 @@ class OurGreatStack:
         else:
             for i in range(self.top, -1, -1):
                 print(self.elements[i], end=' ')
+
+# also try out stack with linked lists, and when you do please contrivute to this project right here lol
