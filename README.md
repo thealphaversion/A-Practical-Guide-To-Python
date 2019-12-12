@@ -13,9 +13,10 @@ This directory contains implementations of different data structures.
 ### algorithms
 This directory contains implementations of different problem statements and alogrithms.
 
+### miscellaneous
+This directory contains a random set of implementations of different ideas and problem statements.
+
 ## To get started with learning
 1. Install Python3. You can find out how to do that [here](https://www.javatpoint.com/how-to-install-python).
 2. Clone this repository.
-3. That's it. Go through the files. Run them using `python filename.py` or `python3 filename.py`
-
-If you are stating with python, then I would recommend that you start with the **basics** directory and then move on to the **algorithms** directory.
+3. That's it. Go through the files. Run them using `python filename.py` or `python3 filename.py
